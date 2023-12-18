@@ -5,17 +5,18 @@ import './globals.css';
 import { cn } from '@/lib/utils';
 
 
-
 export const metadata: Metadata = {
   title: 'ODONTO RISO',
   description: 'Clinica de odonto',
-  keywords: ['odonto', 'sorriso', 'odonto', 'sorriso']
+  keywords: ['odonto', 'sorriso', 'odonto', 'sorriso'],
+
 };
 
 const fontSans = FontSans({
   subsets: ['latin'],
   variable: '--font-sans'
 });
+
 
 const fontHeading = localFont({
   src: '../assets/fonts/CalSans-SemiBold.woff2',
@@ -27,7 +28,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="pt-br">
+    <html lang="pt-br" >
       <body className={cn(
         'min-h-screen bg-background font-sans antialiased',
         fontSans.variable, fontHeading.variable

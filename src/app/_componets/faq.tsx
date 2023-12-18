@@ -11,21 +11,21 @@ const content = [
     id: 1,
     title: 'CLAREAMENTO ENFRAQUECE OS DENTES?',
     episodes: [
-      { id: 1, title: 'O clareamento consiste em uma reação química. O gel clareador age no pigmento que ocasiona o escurecimento dental. Esse processo não é abrasivo e não afeta a estrutura dos dentes' },
+      { id: 2, title: 'O clareamento consiste em uma reação química. O gel clareador age no pigmento que ocasiona o escurecimento dental. Esse processo não é abrasivo e não afeta a estrutura dos dentes' },
     ],
   },
   {
     id: 2,
     title: 'ADULTO PODE FAZER TRATAMENTO COM APARELHO ORTODÔNTICO?',
     episodes: [
-      { id: 1, title: 'Sim, os pacientes que possuem desajustes na posição dos dentes ou no tamanho dos ossos da face, com consequente desarmonia muscular, devem ser submetidos ao tratamento ortodôntico, mesmo quando em idade adulta.' },
+      { id: 2, title: 'Sim, os pacientes que possuem desajustes na posição dos dentes ou no tamanho dos ossos da face, com consequente desarmonia muscular, devem ser submetidos ao tratamento ortodôntico, mesmo quando em idade adulta.' },
     ],
   },
   {
     id: 3,
     title: 'GRÁVIDAS PODEM FAZER TRATAMENTO ODONTOLÓGICO?',
     episodes: [
-      { id: 1, title: 'Já é conhecida a importância do pré-natal na área médica, valorizando a gestação quanto aos cuidados da mãe e do bebê. Da mesma maneira, na Odontologia, a abordagem da criança a partir da gestação se tornou incontestável e aumentam as chances do bebê ter saúde bucal. Este cuidado possibilita que a grávida tenha uma microbiota compatível com saúde, diminuindo as chances de transmissão vertical de microrganimos patogênicos da mãe para a criança.' },
+      { id: 2, title: 'Já é conhecida a importância do pré-natal na área médica, valorizando a gestação quanto aos cuidados da mãe e do bebê. Da mesma maneira, na Odontologia, a abordagem da criança a partir da gestação se tornou incontestável e aumentam as chances do bebê ter saúde bucal. Este cuidado possibilita que a grávida tenha uma microbiota compatível com saúde, diminuindo as chances de transmissão vertical de microrganimos patogênicos da mãe para a criança.' },
     ],
   },
 

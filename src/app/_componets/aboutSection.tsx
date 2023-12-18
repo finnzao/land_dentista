@@ -12,7 +12,7 @@ export default function AboutSection() {
 
             <div className='grid grid-cols-1 gap-y-16 lg:grid-cols-2 lg:gap-y-12 lg:grid-rows-[auto-1fr] my-2'>
                 <div className='lg:pl-20 flex justify-center'>
-                    <div className='max-w-xs px-2.5 lg:max-w-noneff'>
+                    {/* <div className='max-w-xs px-2.5 lg:max-w-noneff'>
                         <Image
                             src={profileImg}
                             alt='Profile'
@@ -22,7 +22,7 @@ export default function AboutSection() {
                             priority={true}
                             className='aspect-square object-cover bg-zinc-100 '
                         />
-                    </div>
+                    </div> */}
                 </div>
 
                 <div className='lg:order-first lg:row-span-2 tex-center md:text-start'>
